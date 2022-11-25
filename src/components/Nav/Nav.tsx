@@ -23,6 +23,8 @@ const ROUTES = {
     { title: 'Ответы на вопросы по Википедии', link: 'odqa' },
     { title: 'Распознавание именованных сущностей', link: 'ner' },
     { title: 'Анализ тональности', link: 'sentiment' },
+    { title: 'Семантическое следование', link: 'superglueterra' },
+    { title: 'Да/Нет QA', link: 'supergluedanetqa' },
   ],
   en: [
     { title: 'Entity recognition', link: 'ner' },
